@@ -1,0 +1,3 @@
+C:/Users/Filip/CLionProjects/Transport_ciepla_mes/cmake-build-debug/CMakeFiles/Transport_ciepla_mes.dir
+C:/Users/Filip/CLionProjects/Transport_ciepla_mes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Filip/CLionProjects/Transport_ciepla_mes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
